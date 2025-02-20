@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    background-color:beige;
+   }
+ * {
+
+    margin: 20px auto;
+    padding: 0;
+   }
+ h1 {
+    font-family: "Papyrus", serif ;
+    text-align: center;  
+    color:rgb(144, 68, 14);
+    
+ }
+ a {
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     color:rgb(144, 68, 14);
+     margin: 0.5em;
+     padding: 10px;
+     text-align: center;
+
+ }
+ ul {
+    text-align: center;
+    
+ }
+ 
+img {
+    border-radius: 0,5em;
+    border: 3px solid rgb(110, 54, 15);
+}
